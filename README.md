@@ -119,14 +119,17 @@ Email       : thulanibilly6@gmail.com
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thulanibdev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulanibdev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thulanibdev&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&hide_border=true" width="95%"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=thulanibdev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulanibdev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=ffffff&langs_count=6"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thulanibdev&hide_border=true&background=0d0d0d&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thulanibdev&theme=black-ice&hide_border=true&background=0D0D0D&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
