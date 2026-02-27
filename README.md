@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,70:1a1a00,100:39ff14&height=230&section=header&text=THULANI%20DENFROD%20BILLY&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEV%20%7C%20TECH%20FOUNDER&descAlignY=58&descSize=18&descColor=f5f500"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=%5BBOOTING+UP...%5D+Thulani+Denfrod+Billy+%E2%9C%94;%5BSTATUS%5D+BSc+Software+Engineering+%40+Eduvos+Midrand;%5BSTATUS%5D+Full-Stack+Dev+%E2%80%94+Ordine+Short+Course;%5BFOUNDING%5D+StudyFlow+%E2%80%94+EdTech+Startup+%F0%9F%93%9A;%5BFOUNDING%5D+HaulBridge+%E2%80%94+Logistics+Platform+%F0%9F%9A%9B;%5BTARGET%5D+Junior+Dev+Role+by+December+2025+%F0%9F%8E%AF;%5BLOCATION%5D+South+Africa+%F0%9F%87%BF%F0%9F%87%A6+%7C+Building+for+the+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=%5BBOOTING+UP...%5D+Thulani+Denfrod+Billy+%E2%9C%94;%5BSTATUS%5D+BSc+Software+Engineering+%40+Eduvos+Midrand;%5BSTATUS%5D+Full-Stack+Dev+%E2%80%94+Ordine+Short+Course;%5BFOUNDING%5D+StudyFlow+%E2%80%94+EdTech+Startup+%F0%9F%93%9A;%5BFOUNDING%5D+Veltrix+Logistics+%E2%80%94+Logistics+Platform+%F0%9F%9A%9B;%5BTARGET%5D+Junior+Dev+Role+by+December+2026+%F0%9F%8E%AF;%5BLOCATION%5D+South+Africa+%F0%9F%87%BF%F0%9F%87%A6+%7C+Building+for+the+World)](https://git.io/typing-svg)
 
 <br/>
 
@@ -62,7 +62,7 @@ const THULANI = {
       status:   "🔨 ACTIVELY BUILDING — MVP in progress",
     },
 
-    HaulBridge: {
+    Veltrix Logistics: {
       type:     "Logistics & Freight Brokerage 🚛",
       mission:  "Connecting SA shippers with truckers — faster, cheaper, smarter",
       role:     "Founder & Freight Broker",
@@ -83,8 +83,8 @@ const THULANI = {
   tools:        ["Git", "GitHub", "VS Code", "Terminal"],
 
   // ── TARGETS ───────────────────────────────────────────────
-  mission_2025: "Land a junior developer role or internship by December",
-  mission_2026: "Launch StudyFlow & HaulBridge publicly",
+  mission_2026: "Land a junior developer role or internship by December 2026",
+  mission_2027: "Launch StudyFlow & Veltrix Logistics publicly",
   mission_2030: "Run a multi-product South African tech empire",
 
   // ── CORE ──────────────────────────────────────────────────
@@ -157,19 +157,19 @@ const THULANI = {
 
 > STACK:    React  |  Node.js  |  MongoDB  |  Mobile (Flutter)
 > STATUS:   🔨 BUILDING MVP
-> LAUNCH:   2026
+> LAUNCH:   2026—2027
 ```
 
 ---
 
-### 🚛 MISSION 02 — HaulBridge [Logistics Brokerage]
+### 🚛 MISSION 02 — Veltrix Logistics [Logistics Brokerage]
 
 ```
 > PROBLEM:  SA shippers can't find reliable trucks fast enough.
             Truckers sit idle with no loads. Brokers work manually
             through WhatsApp and phone calls. The system is broken.
 
-> SOLUTION: HaulBridge — a digital freight brokerage platform that
+> SOLUTION: Veltrix Logistics — a digital freight brokerage platform that
             matches shippers with truckers instantly across South
             Africa, with full broker tools built in.
 
@@ -180,7 +180,7 @@ const THULANI = {
 
 > ROLE:     Founder & Active Freight Broker
 > STATUS:   🚀 IN DEVELOPMENT
-> LAUNCH:   2026
+> LAUNCH:   2026—2027
 ```
 
 ---
@@ -194,7 +194,7 @@ const THULANI = {
 | 03 | 🧮 Calculator | Responsive JS calculator | JavaScript | 🔨 Building |
 | 04 | 🌤️ Weather App | Live weather via API | JS, REST API | 📋 Planned |
 | 05 | 📚 StudyFlow MVP | Full student productivity app | React, Node, MongoDB | 🔨 Active |
-| 06 | 🚛 HaulBridge MVP | Freight brokerage platform | React, Node, MongoDB | 🔨 Active |
+| 06 | 🚛 Veltrix Logistics MVP | Freight brokerage platform | React, Node, MongoDB | 🔨 Active |
 
 ---
 
@@ -202,7 +202,7 @@ const THULANI = {
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║              THULANI'S 2025—2026 ROADMAP                ║
+║              THULANI'S 2026—2027 ROADMAP                ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
 ║  🎓 EDUCATION                                            ║
@@ -210,15 +210,15 @@ const THULANI = {
 ║  [██████████░░░░░░░░░░]  Ordine Full-Stack Course        ║
 ║                                                          ║
 ║  💼 CAREER                                               ║
-║  [███░░░░░░░░░░░░░░░░░]  Junior Dev Role by Dec 2025     ║
+║  [███░░░░░░░░░░░░░░░░░]  Junior Dev Role by Dec 2026     ║
 ║  [█████░░░░░░░░░░░░░░░]  6+ GitHub Projects              ║
 ║  [██░░░░░░░░░░░░░░░░░░]  HackerRank Certifications       ║
 ║                                                          ║
 ║  🚀 STARTUPS                                             ║
 ║  [██████░░░░░░░░░░░░░░]  StudyFlow MVP — Building        ║
-║  [████░░░░░░░░░░░░░░░░]  HaulBridge MVP — Building       ║
+║  [████░░░░░░░░░░░░░░░░]  Veltrix Logistics MVP — Building       ║
 ║  [░░░░░░░░░░░░░░░░░░░░]  CIPC Registration — Planned     ║
-║  [░░░░░░░░░░░░░░░░░░░░]  Public Launch Both — 2026       ║
+║  [░░░░░░░░░░░░░░░░░░░░]  Public Launch Both — 2027       ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
