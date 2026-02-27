@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a1a1a,100:c9a84c&height=230&section=header&text=THULANI%20DENFROD%20BILLY&fontSize=44&fontColor=c9a84c&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%E2%80%94%20Full-Stack%20Developer%20%E2%80%94%20Tech%20Founder&descAlignY=58&descSize=19&descColor=ffffff"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=1200&color=C9A84C&center=true&vCenter=true&width=750&lines=BSc+Software+Engineering+%E2%80%94+Eduvos+Midrand;Full-Stack+Developer+%E2%80%94+Ordine+Short+Course;Founder+%26+CEO+%E2%80%94+Veltrix+Logistics+(Live+%26+Operating);Building+StudyFlow+%E2%80%94+EdTech+Startup;South+Africa+%F0%9F%87%BF%F0%9F%87%A6+%7C+Building+for+the+World;Open+to+Junior+Roles+%26+Internships+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=1200&color=C9A84C&center=true&vCenter=true&width=750&lines=BSc+Software+Engineering+%E2%80%94+Eduvos+Midrand;Full-Stack+Developer+%E2%80%94+Ordine+Short+Course;Founder+%26+CEO+%E2%80%94+Veltrix+Logistics+(Live+%26+Operating);Building+StudyFlow+%E2%80%94+EdTech+Startup;Founder+%E2%80%94+ConnectIQ+(Student+Networking+Platform);South+Africa+%F0%9F%87%BF%F0%9F%87%A6+%7C+Building+for+the+World;Open+to+Junior+Roles+%26+Internships+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,7 +16,7 @@
 <div align="center">
 
 ### ✦ &nbsp; T H U L A N I &nbsp; D E N F R O D &nbsp; B I L L Y &nbsp; ✦
-*Software Engineer · Full-Stack Developer · Entrepreneur · South Africa*
+*Software Engineer · Full-Stack Developer · 3x Founder · South Africa*
 
 </div>
 
@@ -33,7 +33,8 @@ Short Course: Full-Stack Development — Ordine (Running in parallel)
 
 Companies:
   ├── Veltrix Logistics     → Founder & CEO · Live & Operating · Est. 2026
-  └── StudyFlow             → Founder · EdTech Startup · Building MVP
+  ├── StudyFlow             → Founder · EdTech Startup · Building MVP
+  └── ConnectIQ             → Founder · Student Networking Platform · Building
 
 Status      : 🟢 Available for Junior Dev Roles & Internships
 Email       : thulanibilly6@gmail.com
@@ -135,6 +136,31 @@ Email       : thulanibilly6@gmail.com
 
 ---
 
+
+---
+
+<div align="center">
+
+### ◈ &nbsp; CONNECTIQ &nbsp; ◈
+*Student Networking Platform · LinkedIn meets Discord · For Students, By a Student*
+
+</div>
+
+> ConnectIQ is a student-first networking and community platform — think LinkedIn meets Discord, built exclusively for students. While LinkedIn is for professionals and Discord is for gaming communities, **ConnectIQ fills the gap** that no platform currently fills: a dedicated space where students can connect, collaborate, find opportunities, and grow — all in one place built specifically for them.
+
+| What ConnectIQ Offers | Detail |
+|---|---|
+| 🎓 Student Profiles | Academic-focused profiles built for students not corporates |
+| 🤝 Peer Networking | Connect with students across universities and colleges in SA |
+| 💬 Community Spaces | Discord-style subject and interest-based group chats |
+| 💼 Opportunities Board | Internships, bursaries, part-time jobs curated for students |
+| 📅 Campus Events | Discover and share events happening across campuses |
+| 🧠 Study Collaboration | Find study partners and form groups across institutions |
+| 🌍 SA-Wide Network | Connecting students from every campus in South Africa |
+
+**Status:** 🔨 Building &nbsp;|&nbsp; **Vision:** The home of every student in South Africa &nbsp;|&nbsp; **Role:** Founder
+
+---
 ## 〉Projects
 
 | # | Project | Description | Stack | Status |
@@ -145,6 +171,7 @@ Email       : thulanibilly6@gmail.com
 | 04 | 🌤️ Weather App | Live weather via REST API | JS, API | 📋 Planned |
 | 05 | 📚 StudyFlow MVP | Full student productivity platform | React, Node, MongoDB | 🔨 Active |
 | 06 | 🚛 Veltrix Platform | Digital freight brokerage system | React, Node, MongoDB | 📋 Planned |
+| 07 | 🎓 ConnectIQ MVP | Student networking & community platform | React, Node, MongoDB | 🔨 Building |
 
 ---
 
