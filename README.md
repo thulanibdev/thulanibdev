@@ -1,341 +1,438 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0010,30:120025,60:1e0040,100:4a00a0&height=300&section=header&text=THULANI%20DENFROD%20BILLY&fontSize=52&fontColor=f0e6ff&animation=fadeIn&fontAlignY=40&desc=CEO%20%E2%80%A2%20SERIAL%20FOUNDER%20%E2%80%A2%20SOFTWARE%20ENGINEER%20%E2%80%A2%20SOUTH%20AFRICA%20%F0%9F%87%BF%F0%9F%87%A6&descAlignY=62&descSize=16&descColor=c084fc"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=20&section=header"/>
 
 </div>
 
 <div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=%E2%96%B6+CEO+%26+Founder+%E2%80%94+Veltrix+Logistics+%7C+LIVE+%26+OPERATING+%F0%9F%9A%9B;%E2%96%B6+Founder+%E2%80%94+ConnectIQ+%7C+Student+Networking+Platform+%F0%9F%8E%93;%E2%96%B6+Founder+%E2%80%94+StudyFlow+%7C+EdTech+Productivity+App+%F0%9F%93%9A;%E2%96%B6+BSc+Software+Engineering+%E2%80%94+Eduvos+Midrand;%E2%96%B6+Full-Stack+Developer+%E2%80%94+Ordine+Short+Course;%E2%96%B6+South+Africa+%7C+3+Companies+%7C+Infinite+Ambition)](https://git.io/typing-svg)
+![](https://img.shields.io/badge/-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-0a0a0a?style=flat-square&labelColor=0a0a0a)
 
 <br/>
 
-<a href="https://linkedin.com/in/thulani-billy">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4a00a0?style=for-the-badge&logo=linkedin&logoColor=c084fc&labelColor=0a0010"/>
-</a>
-<a href="mailto:thulanibilly6@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-4a00a0?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0a0010"/>
-</a>
-<a href="https://github.com/thulanibdev">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-4a00a0?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=0a0010"/>
-</a>
+# <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=42&pause=999999&color=D4AF37&center=true&vCenter=true&width=900&height=80&lines=THULANI+DENFROD+BILLY" alt="Thulani Denfrod Billy"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=18&pause=999999&color=9a8060&center=true&vCenter=true&width=700&height=30&lines=CEO+%E2%80%A2+SERIAL+FOUNDER+%E2%80%A2+SOFTWARE+ENGINEER+%E2%80%A2+SOUTH+AFRICA" alt="subtitle"/>
+
+<br/>
+
+![](https://img.shields.io/badge/-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-0a0a0a?style=flat-square&labelColor=0a0a0a)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thulanibdev&color=4a00a0&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/thulanibdev?style=for-the-badge&color=c084fc&labelColor=0a0010)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&pause=2000&color=D4AF37&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+%E2%80%94+Veltrix+Logistics+%7C+Live+%26+Operating+%F0%9F%9A%9B;Founder+%E2%80%94+ConnectIQ+%7C+The+Student+Networking+Platform+%F0%9F%8E%93;Founder+%E2%80%94+StudyFlow+%7C+EdTech+Productivity+App+%F0%9F%93%9A;BSc+Software+Engineering+%E2%80%94+Eduvos+Midrand+%F0%9F%8F%9B%EF%B8%8F;South+Africa+%F0%9F%87%BF%F0%9F%87%A6+%7C+Three+Companies+%7C+One+Unstoppable+Vision)](https://git.io/typing-svg)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://linkedin.com/in/thulani-billy)
+[![Email](https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=0a0a0a)](mailto:thulanibilly6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-D4AF37?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/thulanibdev)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&logo=firefox&logoColor=D4AF37)](https://github.com/thulanibdev)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=thulanibdev&color=D4AF37&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=300&size=18&pause=99999&color=6b21a8&center=true&vCenter=true&width=800&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider"/>
-</picture>
-
-### ✧ &nbsp;&nbsp; W H O &nbsp; I S &nbsp; T H U L A N I &nbsp;&nbsp; ✧
-
-*A 1st Year Software Engineering student at Eduvos Midrand.*
-*A Full-Stack Developer in training.*
-*A CEO running three companies simultaneously.*
-*A South African founder building for the world.*
-
-**He does not wait to be ready. He becomes ready by building.**
+> *&ldquo; I did not wait for the right time.*
+> *I made the time right &mdash; by starting. &rdquo;*
 
 </div>
 
+<br/>
+
 ---
 
-## ◈ Executive Identity
+<br/>
+
+## &nbsp;&nbsp;&nbsp;&nbsp; I &nbsp;&nbsp; THE FOUNDER
+
+<br/>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-```yaml
-NAME    : Thulani Denfrod Billy
-TITLE   : CEO · Serial Founder
-          Software Engineer
-BASED   : Johannesburg 🇿🇦
-EMAIL   : thulanibilly6@gmail.com
-```
+<br/>
+
+**`EDUCATION`**
+
+<br/>
+
+🏛️ **Eduvos Midrand**
+BSc Software Engineering
+Year 1 · 2026
+
+<br/>
+
+⚡ **Ordine Short Course**
+Full-Stack Development
+Running in Parallel
+
+<br/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="1%" bgcolor="#D4AF37">|</td>
+<td align="center" width="33%">
 
-```yaml
-UNIVERSITY : Eduvos — Midrand
-DEGREE     : BSc Software Engineering
-YEAR       : 1st Year (2026)
-COURSE     : Full-Stack Dev — Ordine
-             (Running in parallel)
-```
+<br/>
+
+**`IDENTITY`**
+
+<br/>
+
+👑 **Thulani Denfrod Billy**
+CEO · Serial Founder
+Software Engineer
+
+📍 Johannesburg, South Africa 🇿🇦
+✉️ thulanibilly6@gmail.com
+
+<br/>
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td align="center" width="1%" bgcolor="#D4AF37">|</td>
+<td align="center" width="33%">
 
-```yaml
-COMPANIES  :
-  ◆  Veltrix Logistics  ──  CEO & Founder  |  ✅ LIVE & OPERATING  |  Est. 2026
-  ◆  ConnectIQ          ──  Founder        |  🔨 Building MVP
-  ◆  StudyFlow          ──  Founder        |  🔨 Building MVP
+<br/>
 
-OPEN TO    :  Junior Developer Roles  ·  Internships  ·  Collaboration
-STATUS     :  🟢 AVAILABLE
-```
+**`STATUS`**
+
+<br/>
+
+🟢 **Available**
+Junior Dev Roles
+Internships · Collabs
+
+<br/>
+
+🏢 **3 Active Companies**
+All Founded 2026
+All Running Now
+
+<br/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
+<br/>
+
 ---
 
-## ◈ The Empire — 3 Companies · 1 Vision
+<br/>
+
+## &nbsp;&nbsp;&nbsp;&nbsp; II &nbsp;&nbsp; THE EMPIRE
 
 <br/>
 
 <div align="center">
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                           ▓
-▓   ◆  01  ◆   V E L T R I X   L O G I S T I C S          ▓
-▓             CEO & FOUNDER  ·  LIVE & OPERATING           ▓
-▓                                                           ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+◆ ════════════════════════════════════════════════════════════ ◆
+
+        V  E  L  T  R  I  X     L  O  G  I  S  T  I  C  S
+
+                   CEO & FOUNDER  ·  EST. 2026
+                     ✦  LIVE & OPERATING  ✦
+
+◆ ════════════════════════════════════════════════════════════ ◆
 ```
 
 </div>
 
-![LIVE](https://img.shields.io/badge/✅_STATUS-LIVE_%26_OPERATING-4a00a0?style=for-the-badge&labelColor=0a0010)
-![CEO](https://img.shields.io/badge/👑_ROLE-CEO_%26_FOUNDER-c084fc?style=for-the-badge&labelColor=0a0010)
-![Industry](https://img.shields.io/badge/🚛_INDUSTRY-FREIGHT_BROKERAGE-4a00a0?style=for-the-badge&labelColor=120025)
+<div align="center">
 
-> **Veltrix Logistics** is a **live, actively operating** South African freight brokerage company. As CEO, Thulani connects shippers who need cargo moved with verified truckers who have capacity — managing negotiations, load coordination, rates, and relationships end-to-end. Currently operating manually with a full digital platform in active development to automate and scale nationwide.
+![](https://img.shields.io/badge/LIVE_%26_OPERATING-✅-D4AF37?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/ROLE-CEO_%26_FOUNDER-1a1a1a?style=for-the-badge&labelColor=D4AF37&color=0a0a0a)
+![](https://img.shields.io/badge/INDUSTRY-FREIGHT_BROKERAGE-0a0a0a?style=for-the-badge&labelColor=1a1a1a&color=0a0a0a)
 
-| ◆ | Service | Detail |
-|:---:|:---|:---|
-| 🚛 | **Freight Brokerage** | Matching shippers with reliable truckers across South Africa |
-| 💰 | **Rate Negotiation** | Securing competitive pricing for all parties |
-| 📋 | **Load Coordination** | Full end-to-end shipment and delivery management |
-| 🤝 | **Network Building** | Growing a verified national carrier and client network |
-| 📱 | **Digital Platform** | Full web & mobile app — actively in development |
-| 🌍 | **Coverage** | All major routes across South Africa |
+</div>
+
+<br/>
+
+> **Veltrix Logistics** is a live, actively operating South African freight brokerage company. As its CEO, Thulani personally connects shippers with verified truckers — managing negotiations, load coordination, pricing, and relationships end-to-end across South Africa. Operating now. Digitising next.
 
 <br/>
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                           ▓
-▓   ◆  02  ◆   C O N N E C T I Q                           ▓
-▓             FOUNDER  ·  STUDENT NETWORKING PLATFORM      ▓
-▓                                                           ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+| &nbsp;&nbsp;&nbsp;&nbsp; SERVICE &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DETAIL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---|
+| 🚛 Freight Brokerage | Matching shippers with reliable truckers across South Africa |
+| 💰 Rate Negotiation | Securing the most competitive rates for all parties |
+| 📋 Load Coordination | Full end-to-end shipment and delivery management |
+| 🤝 Network Building | Growing a verified national carrier and client network |
+| 📱 Digital Platform | Full web & mobile platform — actively in development |
 
 </div>
-
-![Building](https://img.shields.io/badge/🔨_STATUS-BUILDING_MVP-4a00a0?style=for-the-badge&labelColor=0a0010)
-![Founder](https://img.shields.io/badge/🎓_ROLE-FOUNDER-c084fc?style=for-the-badge&labelColor=0a0010)
-![Industry](https://img.shields.io/badge/🌐_INDUSTRY-EDTECH_%26_SOCIAL-4a00a0?style=for-the-badge&labelColor=120025)
-
-> **ConnectIQ** is the student networking and community platform the world has been missing. LinkedIn is for professionals. Discord is for gamers. **ConnectIQ is built exclusively for students** — a premium space where students across South Africa can network, collaborate, discover opportunities, and grow together. One platform. Every campus.
-
-| ◆ | Feature | Detail |
-|:---:|:---|:---|
-| 🧑‍🎓 | **Student Profiles** | Academic-focused profiles built for students |
-| 🤝 | **Peer Networking** | Connect across every SA university and college |
-| 💬 | **Communities** | Subject and interest-based group spaces |
-| 💼 | **Opportunities** | Internships, bursaries and jobs for students only |
-| 📅 | **Campus Events** | Discover events across all campuses nationwide |
-| 🧠 | **Study Collaboration** | Find partners and groups across institutions |
-
-<br/>
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                           ▓
-▓   ◆  03  ◆   S T U D Y F L O W                           ▓
-▓             FOUNDER  ·  EDTECH PRODUCTIVITY APP          ▓
-▓                                                           ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-![Building](https://img.shields.io/badge/🔨_STATUS-BUILDING_MVP-4a00a0?style=for-the-badge&labelColor=0a0010)
-![Founder](https://img.shields.io/badge/📚_ROLE-FOUNDER_%26_LEAD_DEV-c084fc?style=for-the-badge&labelColor=0a0010)
-![Industry](https://img.shields.io/badge/🎓_INDUSTRY-EDTECH-4a00a0?style=for-the-badge&labelColor=120025)
-
-> **StudyFlow** replaces the chaos of five different student apps with one clean, intelligent workspace. Scheduling, tasks, notes, timers, and progress — all unified. Built by a student who lives the problem every day, for every student who deserves better tools.
-
-| ◆ | Feature | Detail |
-|:---:|:---|:---|
-| 📅 | **Smart Scheduling** | Automated timetable builder per subject |
-| ⏱️ | **Study Timer** | Pomodoro focus sessions with smart breaks |
-| ✅ | **Task Manager** | Priority-based tasks and deadline tracking |
-| 📝 | **Note Organiser** | Searchable structured notes per subject |
-| 📊 | **Progress Tracker** | Visual stats, streaks, and weekly reports |
-| 🔔 | **Deadline Alerts** | Exam countdowns and submission reminders |
-
----
-
-## ◈ Tech Stack
-
-<div align="center">
-
-**◆ Current**
-
-![Python](https://img.shields.io/badge/Python-0a0010?style=for-the-badge&logo=python&logoColor=c084fc)
-![Java](https://img.shields.io/badge/Java-0a0010?style=for-the-badge&logo=openjdk&logoColor=c084fc)
-![HTML5](https://img.shields.io/badge/HTML5-0a0010?style=for-the-badge&logo=html5&logoColor=c084fc)
-![CSS3](https://img.shields.io/badge/CSS3-0a0010?style=for-the-badge&logo=css3&logoColor=c084fc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0010?style=for-the-badge&logo=javascript&logoColor=c084fc)
-![Git](https://img.shields.io/badge/Git-0a0010?style=for-the-badge&logo=git&logoColor=c084fc)
-![GitHub](https://img.shields.io/badge/GitHub-0a0010?style=for-the-badge&logo=github&logoColor=c084fc)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0010?style=for-the-badge&logo=visual-studio-code&logoColor=c084fc)
-
-**◆ Downloading**
-
-![React](https://img.shields.io/badge/React-120025?style=for-the-badge&logo=react&logoColor=e9d5ff)
-![Node.js](https://img.shields.io/badge/Node.js-120025?style=for-the-badge&logo=node.js&logoColor=e9d5ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-120025?style=for-the-badge&logo=mongodb&logoColor=e9d5ff)
-![SQL](https://img.shields.io/badge/SQL-120025?style=for-the-badge&logo=mysql&logoColor=e9d5ff)
-![Flutter](https://img.shields.io/badge/Flutter-120025?style=for-the-badge&logo=flutter&logoColor=e9d5ff)
-![REST API](https://img.shields.io/badge/REST_API-120025?style=for-the-badge&logo=fastapi&logoColor=e9d5ff)
-
-</div>
-
----
-
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thulanibdev&bg_color=0a0010&color=c084fc&line=4a00a0&point=f0e6ff&area=true&hide_border=true" width="96%"/>
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thulanibdev&show_icons=true&hide_border=true&bg_color=0a0010&title_color=c084fc&icon_color=4a00a0&text_color=e9d5ff&count_private=true&include_all_commits=true"/>
+<div align="center">
+
+```
+◆ ════════════════════════════════════════════════════════════ ◆
+
+             C  O  N  N  E  C  T  I  Q
+
+              FOUNDER  ·  STUDENT NETWORKING
+           THE LINKEDIN + DISCORD FOR STUDENTS
+
+◆ ════════════════════════════════════════════════════════════ ◆
+```
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/STATUS-BUILDING_MVP-D4AF37?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/ROLE-FOUNDER-1a1a1a?style=for-the-badge&labelColor=D4AF37&color=0a0a0a)
+![](https://img.shields.io/badge/INDUSTRY-EDTECH_%26_SOCIAL-0a0a0a?style=for-the-badge&labelColor=1a1a1a)
+
+</div>
+
+<br/>
+
+> **ConnectIQ** is the platform students have always needed but never had. LinkedIn is built for professionals. Discord is built for gamers. **ConnectIQ is built exclusively for students** — a premium space to network, collaborate, find opportunities, and grow across every campus in South Africa.
+
+<br/>
+
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp; FEATURE &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DETAIL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---|
+| 🎓 Student Profiles | Academic-first profiles built for students, not executives |
+| 🤝 Peer Networking | Connect across every university and college in South Africa |
+| 💬 Communities | Subject and interest-based group spaces |
+| 💼 Opportunities | Internships, bursaries and jobs — students only |
+| 📅 Campus Events | Discover events happening across all campuses |
+| 🧠 Study Collaboration | Find partners and study groups across institutions |
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+```
+◆ ════════════════════════════════════════════════════════════ ◆
+
+              S  T  U  D  Y  F  L  O  W
+
+           FOUNDER  ·  EDTECH PRODUCTIVITY PLATFORM
+            ALL-IN-ONE STUDY APP FOR EVERY STUDENT
+
+◆ ════════════════════════════════════════════════════════════ ◆
+```
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/STATUS-BUILDING_MVP-D4AF37?style=for-the-badge&labelColor=0a0a0a)
+![](https://img.shields.io/badge/ROLE-FOUNDER_%26_LEAD_DEV-1a1a1a?style=for-the-badge&labelColor=D4AF37&color=0a0a0a)
+![](https://img.shields.io/badge/INDUSTRY-EDTECH-0a0a0a?style=for-the-badge&labelColor=1a1a1a)
+
+</div>
+
+<br/>
+
+> **StudyFlow** replaces the chaos of juggling five different student apps with one clean, intelligent workspace. Built by a student living the problem every single day — for every student who deserves better tools to achieve more.
+
+<br/>
+
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp;&nbsp; FEATURE &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DETAIL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---|
+| 📅 Smart Scheduling | Automated timetable builder organised per subject |
+| ⏱️ Study Timer | Pomodoro focus sessions with intelligent break reminders |
+| ✅ Task Manager | Priority-based task lists with deadline tracking |
+| 📝 Note Organiser | Structured, searchable notes per subject |
+| 📊 Progress Tracker | Visual stats, streaks, and weekly performance reports |
+| 🔔 Deadline Alerts | Exam countdowns and submission reminders |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;&nbsp;&nbsp; III &nbsp;&nbsp; THE CRAFT
+
+<br/>
+
+<div align="center">
+
+**CURRENT STACK**
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=D4AF37)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=D4AF37)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=D4AF37)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=D4AF37)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=D4AF37)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37)
+
+<br/>
+
+**IN ACQUISITION**
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=9a8060)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=9a8060)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=9a8060)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=9a8060)
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=9a8060)
+![REST API](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=9a8060)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;&nbsp;&nbsp; IV &nbsp;&nbsp; THE NUMBERS
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thulanibdev&bg_color=0a0a0a&color=D4AF37&line=9a8060&point=ffffff&area=true&hide_border=true" width="96%"/>
+
+<br/><br/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=thulanibdev&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=9a8060&text_color=e8e8e8&count_private=true&include_all_commits=true"/>
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulanibdev&layout=compact&hide_border=true&bg_color=0a0010&title_color=c084fc&text_color=e9d5ff&langs_count=6"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulanibdev&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&text_color=e8e8e8&langs_count=6"/>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thulanibdev&theme=dark&hide_border=true&background=0A0010&ring=4a00a0&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&sideNums=e9d5ff&currStreakNum=e9d5ff&dates=6b21a8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thulanibdev&hide_border=true&background=0a0a0a&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=e8e8e8&sideNums=e8e8e8&currStreakNum=e8e8e8&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 ---
 
-## ◈ Projects
+<br/>
+
+## &nbsp;&nbsp;&nbsp;&nbsp; V &nbsp;&nbsp; THE WORK
+
+<br/>
 
 <div align="center">
 
-| ◆ | Project | Description | Stack | Status |
+| &nbsp; # &nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROJECT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | DESCRIPTION | STACK | STATUS |
 |:---:|:---|:---|:---|:---:|
-| 01 | 🌐 Portfolio Website | Personal developer portfolio | HTML · CSS · JS | 🔨 |
-| 02 | ✅ Task Manager | Smart to-do with local storage | HTML · CSS · JS | 🔨 |
-| 03 | 🧮 Calculator | Clean responsive calculator | JavaScript | 🔨 |
-| 04 | 🌤️ Weather App | Live weather via REST API | JS · API | 📋 |
-| 05 | 📚 StudyFlow MVP | Student productivity platform | React · Node · MongoDB | 🔨 |
-| 06 | 🎓 ConnectIQ MVP | Student networking platform | React · Node · MongoDB | 🔨 |
-| 07 | 🚛 Veltrix Platform | Digital freight brokerage | React · Node · MongoDB | 📋 |
+| I | 🌐 Portfolio Website | Personal developer portfolio | HTML · CSS · JS | 🔨 |
+| II | ✅ Task Manager | Smart to-do with storage | HTML · CSS · JS | 🔨 |
+| III | 🧮 Calculator | Clean responsive calculator | JavaScript | 🔨 |
+| IV | 🌤️ Weather App | Live weather via REST API | JS · API | 📋 |
+| V | 📚 StudyFlow MVP | Student productivity platform | React · Node · MongoDB | 🔨 |
+| VI | 🎓 ConnectIQ MVP | Student networking platform | React · Node · MongoDB | 🔨 |
+| VII | 🚛 Veltrix Platform | Digital freight brokerage | React · Node · MongoDB | 📋 |
 
 </div>
 
+<br/>
+
 ---
 
-## ◈ 2026 — 2027 Roadmap
+<br/>
+
+## &nbsp;&nbsp;&nbsp;&nbsp; VI &nbsp;&nbsp; THE ROADMAP
+
+<br/>
 
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │                 MASTER ROADMAP — 2026 to 2027                   │
-  ├─────────────────────────────────────────────────────────────────┤
-  │                                                                 │
-  │  🎓 EDUCATION                                                   │
-  │  ├─ BSc Software Engineering Yr 1  [████████░░░░]  Active       │
-  │  └─ Full-Stack Ordine Course       [██████████░░]  Active       │
-  │                                                                 │
-  │  💼 CAREER                                                      │
-  │  ├─ Junior Dev / Internship 2026   [████░░░░░░░░]  Targeting    │
-  │  └─ 6+ GitHub Projects             [██████░░░░░░]  Building     │
-  │                                                                 │
-  │  📜 CERTIFICATIONS                                              │
-  │  ├─ HackerRank Python (Basic)      [███░░░░░░░░░]  Starting     │
-  │  ├─ HackerRank SQL (Basic)         [░░░░░░░░░░░░]  Planned      │
-  │  └─ HackerRank JavaScript (Basic)  [░░░░░░░░░░░░]  Planned      │
-  │                                                                 │
-  │  🚛 VELTRIX LOGISTICS                                           │
-  │  ├─ Manual Operations              [██████████░░]  ✅ LIVE       │
-  │  └─ Digital Platform Build         [████░░░░░░░░]  Building     │
-  │                                                                 │
-  │  🎓 CONNECTIQ                                                   │
-  │  ├─ MVP Development                [█████░░░░░░░]  Building     │
-  │  └─ SA Beta Launch                 [░░░░░░░░░░░░]  2027         │
-  │                                                                 │
-  │  📚 STUDYFLOW                                                   │
-  │  ├─ MVP Development                [█████░░░░░░░]  Building     │
-  │  └─ Public Launch                  [░░░░░░░░░░░░]  2027         │
-  │                                                                 │
-  │  🏢 BUSINESS                                                    │
-  │  └─ CIPC Registration — All 3      [░░░░░░░░░░░░]  Planned      │
-  │                                                                 │
-  └─────────────────────────────────────────────────────────────────┘
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║          M A S T E R   R O A D M A P   2026 — 2027           ║
+  ╠═══════════════════════════════════════════════════════════════╣
+  ║                                                               ║
+  ║  EDUCATION                                                    ║
+  ║  ├── BSc Software Engineering Yr 1    ████████░░░░  Active   ║
+  ║  └── Full-Stack Ordine Course         ██████████░░  Active   ║
+  ║                                                               ║
+  ║  CAREER                                                       ║
+  ║  ├── Junior Dev Role / Internship     ████░░░░░░░░  2026     ║
+  ║  └── 6+ GitHub Projects              ██████░░░░░░  Building  ║
+  ║                                                               ║
+  ║  CERTIFICATIONS                                               ║
+  ║  ├── HackerRank Python (Basic)        ███░░░░░░░░░  Starting ║
+  ║  ├── HackerRank SQL (Basic)           ░░░░░░░░░░░░  Planned  ║
+  ║  └── HackerRank JavaScript (Basic)    ░░░░░░░░░░░░  Planned  ║
+  ║                                                               ║
+  ║  VELTRIX LOGISTICS                                            ║
+  ║  ├── Manual Operations                ██████████░░  ✅ LIVE  ║
+  ║  └── Digital Platform Build           ████░░░░░░░░  Active   ║
+  ║                                                               ║
+  ║  CONNECTIQ                                                    ║
+  ║  ├── MVP Development                  █████░░░░░░░  Building ║
+  ║  └── SA Beta Launch                   ░░░░░░░░░░░░  2027     ║
+  ║                                                               ║
+  ║  STUDYFLOW                                                    ║
+  ║  ├── MVP Development                  █████░░░░░░░  Building ║
+  ║  └── Public Launch                    ░░░░░░░░░░░░  2027     ║
+  ║                                                               ║
+  ║  LEGAL                                                        ║
+  ║  └── CIPC — All 3 Companies           ░░░░░░░░░░░░  Planned  ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
-
-## ◈ Certifications
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/HackerRank_Python_(Basic)-IN_PROGRESS-4a00a0?style=for-the-badge&logo=hackerrank&logoColor=c084fc)](https://hackerrank.com)
-[![SQL](https://img.shields.io/badge/HackerRank_SQL_(Basic)-PLANNED-120025?style=for-the-badge&logo=hackerrank&logoColor=c084fc)](https://hackerrank.com)
-[![JavaScript](https://img.shields.io/badge/HackerRank_JS_(Basic)-PLANNED-120025?style=for-the-badge&logo=hackerrank&logoColor=c084fc)](https://hackerrank.com)
-
-</div>
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
 
-<br/>
+![](https://img.shields.io/badge/-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-0a0a0a?style=flat-square&labelColor=0a0a0a)
 
-**✦ ─────────────────────────────────────────────────────── ✦**
+<br/><br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=13&pause=999999&color=9a8060&center=true&vCenter=true&width=700&height=25&lines=I+AM+A+STUDENT+BY+DAY.+A+CEO+BY+DECISION.+A+DEVELOPER+BY+DISCIPLINE." alt="quote line 1"/>
 
-### *" I am a student by day.*
-### *A CEO by decision.*
-### *A developer by discipline.*
-### *Three companies. One degree.*
-### *One vision that South Africa*
-### *has never seen before. "*
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=400&size=13&pause=999999&color=9a8060&center=true&vCenter=true&width=700&height=25&lines=THREE+COMPANIES.+ONE+DEGREE.+ONE+VISION." alt="quote line 2"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&pause=999999&color=D4AF37&center=true&vCenter=true&width=700&height=30&lines=SOUTH+AFRICA+HAS+NEVER+SEEN+ANYTHING+LIKE+WHAT+IS+COMING." alt="quote line 3"/>
 
-**— THULANI DENFROD BILLY**
-`CEO  ·  Eduvos Midrand  ·  South Africa 🇿🇦  ·  2026`
+<br/><br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=16&pause=999999&color=555555&center=true&vCenter=true&width=600&height=25&lines=%E2%80%94+THULANI+DENFROD+BILLY+%C2%B7+CEO+%C2%B7+EDUVOS+MIDRAND+%C2%B7+SOUTH+AFRICA+%F0%9F%87%BF%F0%9F%87%A6" alt="signature"/>
 
-**✦ ─────────────────────────────────────────────────────── ✦**
+<br/><br/>
+
+![](https://img.shields.io/badge/-%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95%E2%80%95-0a0a0a?style=flat-square&labelColor=0a0a0a)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00a0,30:2d0060,65:120025,100:0a0010&height=160&section=footer&text=WATCH%20THIS%20SPACE&fontSize=22&fontColor=c084fc&animation=fadeIn&fontAlignY=65"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=20&section=footer"/>
